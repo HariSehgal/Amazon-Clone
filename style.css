@@ -22,7 +22,7 @@
 .logo{
     height: 50px;
     width: 100%;
-    background-image: url("Amazon_1.png");
+    background-image: url('Amazon_Images/Amazon_1.png');
     background-size: cover;
 }
 
@@ -165,7 +165,7 @@
 }
 
 .hero-section{
-    background-image: url("Amazon_3.jpg");
+    background-image: url('Amazon_Images/Amazon_3.jpg');
     height: 300px;
     background-size: cover;
     display: flex;
